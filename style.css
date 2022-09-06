@@ -170,7 +170,7 @@ h3 {
 }
 #p3c {
     display: flex;
-    justify-content: center;
+    justify-content: left;
     align-items: center;
     min-height: 0vh;
     background: #111;
@@ -322,4 +322,12 @@ a:hover {
 a:active {
     color: white;
     text-decoration: none;
+}
+
+#rice{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 2%;
+    margin-bottom: 4%;
 }
