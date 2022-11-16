@@ -1,3 +1,3 @@
 # dev7z.net
 
-new website, no javascript
+old new website, no javascript
